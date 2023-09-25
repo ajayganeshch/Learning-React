@@ -1,1 +1,3 @@
-# Learning-React
+# Learning-React-Redux
+
+🧑🏻‍🏫 Instructor : Jonas Schmedtman
