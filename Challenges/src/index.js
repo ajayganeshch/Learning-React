@@ -6,7 +6,7 @@ const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
 /*
-// CHALLENGE 1
+// CHALLENGE 1,2 [Profile Card]
 import "./style1.css";
 const skills = [
   {
@@ -103,7 +103,7 @@ function Skill({ skillObj }) {
 }
 */
 
-// CHALLENGE 2 [Counter]
+// CHALLENGE 3 [Date Counter V1]
 
 // Mine
 
